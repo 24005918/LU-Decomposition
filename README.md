@@ -26,10 +26,15 @@ RegisterNumber: 212224230252
 */
 ```
 from scipy.linalg import lu
+
 a=eval(input())
+
 p,l,u=lu(a)
+
 print(l)
+
 print(u)
+
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
@@ -39,12 +44,19 @@ RegisterNumber:
 */
 ```
 import numpy as np
+
 from scipy.linalg import lu_factor, lu_solve
+
 a=eval(input())
+
 b=eval(input())
+
 lu,plv=lu_factor(a)
+
 x=lu_factor(a)
+
 x=lu_solve((lu,plv),b)
+
 print(x)
 
 ## Output:
