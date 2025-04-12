@@ -39,8 +39,8 @@ print(u)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 212224230252
-RegisterNumber: 
+Developed by: SANTHOSH V
+RegisterNumber:  212224230252
 */
 ```
 import numpy as np
