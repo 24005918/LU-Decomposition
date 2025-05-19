@@ -59,9 +59,12 @@ x=lu_solve((lu,plv),b)
 
 print(x)
 
+
 ## Output:
 ![{A59AB312-7637-458F-AE09-FD20B2B02817}](https://github.com/user-attachments/assets/e3002cd7-a2c5-4e77-b602-6663972b891f)
 ![{F27580E0-0124-4133-9437-06B229B9AF39}](https://github.com/user-attachments/assets/3f61e79b-d4b4-44e4-94c2-4a5df94194e0)
+
+
 
 
 ## Result:
